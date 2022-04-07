@@ -1,4 +1,4 @@
-# Applying-different-techniques-to-reduced-the-overfitting-of-models-using-Heart-Disease-Dataset
+# Applying-different-techniques-to-reduce-the-overfitting-of-models-using-Heart-Disease-Dataset
 
 Using different machine learning techniques to reduced the model overfitting using Heart Disease Dataset[Statlog] available in Kaggle: https://www.kaggle.com/datasets/shubamsumbria/statlog-heart-data-set
 
